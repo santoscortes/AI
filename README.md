@@ -9,18 +9,13 @@
 
 </head>
  <td><img src="Pictures\Santos Cortes.jfif" alt=""></td>
-<body>
-  <table cellspacing="20">
-    <tr>
-     
-      <td>
-        <h1>Santos Cortes</h1>
+  <h1>Santos Cortes</h1>
         <p><em>Founder and CEO of <strong><a href="http:\\www.cybersymmitronix.com">CYBERSYMMITRONIX</a>
               <p>I work on Artificial Intelligence systems and create cutting edge technology.</p>
-      </td>
-    </tr>
-  </table>
-
+<body>
+  <table cellspacing="20">
+   
+ 
   <hr>
   <h3>Areas of Emphasis</h3>
   <ul>
