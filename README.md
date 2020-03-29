@@ -1,10 +1,11 @@
 # AI
+# Manipulating Light...
 <!DOCTYPE html>
 <html>
 
 <head>
   <meta charset="utf-8">
-  <title>Santos Personal Site</title>
+  
   <link rel="stylesheet" href="css/styles.css">
 
 </head>
